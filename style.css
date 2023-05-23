@@ -1,0 +1,393 @@
+body{
+    background: url(./back/arrière_plan.png);
+    color: #ffffff;
+}
+.bod_eni{
+    width: 100%;
+}
+nav{
+    display: flex;
+    align-items: ;
+    justify-content: space-between;
+    margin: 30 30px;
+    padding-top: 20px;
+    border: 2px solid #FFFFFF ;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+    width: 100%;
+    height: 6cm;
+}
+nav .logo1 {
+    padding-bottom: 4.5cm;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+nav .logo1 .logo_sayna{
+    width: 25px;
+}
+nav .logo1 .logo_marvel{
+    width: 70px;
+}
+nav .titr1{
+    margin-right: 50PX;
+    font-size: 20px.
+}
+nav .titr1 a{
+    margin-right: 50px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.sect1{
+    display:flex;
+    align-items: ;
+    justify-content:space-between;
+
+}
+.sect1 a {
+    color: #FFFFFF;
+}
+.sect1 .sect1_01{
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 60px;
+    width: 600px;
+    height:100px;
+}
+.sect1 .sect1_02{
+    width: 700px;
+    height: 600px;
+    display:flex;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.sect1 .sect1_01 .tite1{
+    font-size: 50px;
+    color:#9E91B7;
+}
+.tite2{
+    font-size: 32px;
+    color:#9E91B7;
+}
+.sect1 .sect1_01 .tex1{
+    font-size: 16px;
+}
+/*section 2*/
+section .sect2{
+    
+     display: flex;
+     align-items: ;
+     background-color: #021740;
+     margin-left:1cm;
+     margin-bottom: 200px;
+    height:6.93cm ;
+}
+section .sect2 .pant2 img{
+    position: relative;
+    top: -1.2cm;
+    right: 2.5cm;
+    width: 7cm;
+    height: 8cm;
+    
+}
+section .sect2 .cap1{
+    margin-left:2cm ;
+    font-size: 12px;
+}
+section .sect2 .cap2{
+    margin-left:5.8cm ;
+    margin-right: -2cm ;
+    font-size: 12px;
+}
+section .sect2 figure ,.pant3 img,.pant4 img{
+    width: 5cm;
+    height: 6.5cm;
+}
+section .sect2 figure ,.pant4 img{
+  position: relative;
+    top:-0.42cm ;
+    right: -2.9cm;
+}
+section .sect2 figure ,.pant3 img{
+  position: relative;
+    margin-left:0.8cm ;
+    right: 0.5cm;
+}
+.sect2 .pant2{
+    margin-left: 100px;
+    width: 150px;
+    height: 100px;
+
+}
+.sect2 .pant3{
+    width: 20px;
+    height: 30px;
+}
+.sect2 .pant4{}
+
+.sect3{
+    display: flex;
+     align-items: ;
+     justify-content:space-between;
+     margin-left: 100px;
+     margin: 150px;
+     padding-bottom: 30px;
+
+}
+.sect3 .para1{
+    margin-right: 30px;
+}
+.sect3 .para1_01{
+    margin-left: 80px;
+    background-color: #ffffff;
+    color: black;
+    margin-top: 100px;
+
+}
+span{
+    display: flex;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+.p10{
+ justify-content:space-around;
+ display:flex;
+ background-color: #3D2DA6;
+}
+.para1_01{
+    border-radius: 10px;
+    
+}
+.para1_01 .tsa{
+    align-items: center;
+    display: block;
+    
+}
+.sect4{
+    display: flex;
+     align-items: ;
+     justify-content:space-between;
+}
+.eni_sect1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-right: -5cm;
+    padding-bottom: 4cm;
+    margin-top: 1.5cm;
+
+}
+.eni_sect1 figure{
+    position: relative;
+    display:inline-flex;
+}
+.eni_sect1 figure img{
+    width: 25cm;
+    margin-top: -8cm;
+    margin-right:-4cm;
+    margin-left:-2cm;
+    height: 21cm;
+      
+   
+}
+.eni_sect1 figcaption .capt{
+    margin-left:-7cm;
+}
+.capt .tite2{
+    margin-left: -2cm;
+    font-size: 68px;
+    margin-top: 0.1cm;
+    padding-bottom:1cm;
+    
+}
+.eni_sect1 .capt .tex_dora figcaption{
+  position: relative;
+    margin-left:-14cm;
+    padding-top:cm; 
+    width: 14cm;
+    
+}
+.tex_dora figure img{
+    width: 22cm;
+    padding-top: 5cm;
+    padding-left: -3cm;
+    margin-left:-3cm;
+    height: 10cm;
+}
+#contact{
+    background-image: url(./back/Pantherhome7.png);
+    background-size:cover;
+}
+.formula1{
+    width: 800px;
+    margin: 50px auto;
+    border-radius: 200px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #9e91b7;
+    backface-visibility: hidden;
+    color: black;
+    
+}
+.formula1 .contact1{
+   width: 
+}
+#contact .formula2 form input{
+    width: 520px;
+    height: 56px;
+    border-radius: 38;
+    margin-top: 0.3cm;
+    
+}
+. formula1 .contact1{
+   background-color: #ffffff;
+}
+.wak_sect30_1{
+    display:flex ;
+    justify-content: ;
+    margin: 80px 80px;
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+.wak_sect30_1_01{
+    margin-right: 80px;
+}
+.wak_sect30_1_02{
+    margin-right: 58
+}
+/.wak_sect30_1_03{
+    display: flex;
+    background-image: url(./back/Pantherwakanda1.png);
+    background-size: cover;
+    background-size: contain;
+    height: 700px;
+    margin: auto;
+}
+.sect4{
+    display:flex;
+    justify-content: space-between;
+    margin: 150px;
+}
+.vid{
+    background-color: #3D2DA6;
+    width: 500px;
+    height: 200px;
+    margin-top: 20px;
+}
+footer{
+    background-image: url(./back/back_footer.png);
+    display: flex;
+    align-items: ;
+    justify-content: space-between;
+    font-size: 10px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+footer .foo1{
+    display: flex;
+    margin-left: 9cm;
+    padding-top: 2cm;
+    padding-bottom: 1cm;
+    height: 8cm;
+        
+
+}
+footer .foo1 .iconsa{
+  width: 40px;
+    height: 40px;
+  padding-top: 3.2cm;
+  position: relative;
+    
+}
+footer .foo1 .iconxx{
+     width: 20px;
+    height: 20px;
+    padding-top: 3.5cm;
+ 
+    
+}
+footer .foo1 .iconma{
+     width: 2.5cm;
+    height: 1.2cm;
+    padding-top: 3cm;
+}
+footer .foo1 figcaption{
+    display: inline-flex;
+    position: relative;
+    margin-left: -6.4cm;
+   
+} 
+footer .foo1 figure{
+    position: relative;
+    display: inline-flex; 
+}
+footer .pag{
+    margin-left: -3cm;
+}
+footer .pag h4{
+    font-size: 32px;
+    padding-top: 2cm;
+    margin-left:-0.3cm ;
+    
+}
+footer .pag p{
+    font-size: 16px;
+    padding-right: :-3cm;
+}
+footer .retro h4{
+    font-size: 32px;
+}
+footer .retro a img{
+     margin-right: 30px;
+    padding-bottom: 2cm;
+}
+footer .retro{
+    padding-top: 2cm;
+    padding-left: 4cm;
+}
+footer .retro .foo4{
+    margin-left: -9.3cm;
+}
+footer .retro .foo4 ul{
+    display: inline;
+}
+.eni_trans{
+    display: flex;
+    justify-content: space-between;
+}
+.eni_trans .capconf{
+    display: flex;
+    justify-content: space-between;
+    
+        
+    
+}
+.eni_trans .capconf figcaption p{
+    margin-right: -15cm;
+    margin-left: 20cm;
+    width: 20cm;
+    padding-top: -12cm
+        
+    
+}
+.eni_trans .capconf figure img{
+    position: relative;
+    margin-left: -10cm;
+    margin-top: -5cm;      
+}
+.eni_act from input{
+    width: 520px;
+    height: 56px;
+    border-radius: 38;
+    margin-top: 1cm;
+
+  
+}
+
+
+
+        
